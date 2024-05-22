@@ -1,4 +1,4 @@
-package n1exercici1;
+package n1exercici1.modelos;
 
 public class Vent extends Instrument {
 	

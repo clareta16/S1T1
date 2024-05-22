@@ -1,4 +1,4 @@
-package n2exercici1;
+package n2exercici1.models;
 
 public interface Camera {
 

@@ -1,4 +1,4 @@
-package n2exercici1;
+package n2exercici1.models;
 
 public class Smartphone extends Telefon implements Camera, Rellotge {
 	
